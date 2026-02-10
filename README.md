@@ -9,7 +9,7 @@ React.js frontend application with real-time autocomplete and fuzzy search.
 npm install
 
 # Set up environment (optional)
-echo "REACT_APP_API_URL=http://localhost:5000/api" > .env
+echo "REACT_APP_API_URL=api" > .env
 
 # Start development server
 npm start
@@ -25,4 +25,3 @@ The app will open at `http://localhost:3000`
 - Item detail pages with React Router
 
 See main README.md for complete documentation.
-
